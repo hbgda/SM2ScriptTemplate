@@ -1,0 +1,10 @@
+{
+    "name": "ScriptTemplate",
+    "type": "script",
+    "author": "Author",
+    "version": "1.0.0",
+    "dependencies": ["ModSettings:1.0.2"],
+
+    "game": "MSM2",
+    "format_version": 1
+}
