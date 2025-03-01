@@ -20,7 +20,7 @@ class UISystemMenuItem {
 };
 
 class ItemDisplayData {
-    char _0x0[0x88];
+    char _0x0[0x88] = { 0 };
 public:
     MENU_API void SetLabel(const char* label);
     MENU_API void SetDescription(const char* desc);
